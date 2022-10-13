@@ -23,8 +23,8 @@ public class EstudoArrays {
         Scanner entrada =  new Scanner(System.in);
 
         System.out.println("Digite um número: ");
-       // int quantidade = entrada.nextInt();
-       // boolean[] valores = new boolean[quantidade];
+        // int quantidade = entrada.nextInt();
+        // boolean[] valores = new boolean[quantidade];
 
         // Exemplo
         System.out.println("Digite o total de notas: ");
