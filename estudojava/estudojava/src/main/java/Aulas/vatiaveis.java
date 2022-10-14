@@ -1,3 +1,5 @@
+package Aulas;
+
 public class vatiaveis {
     // Execução do nosso programa Java
     public static void main(String[] args) {

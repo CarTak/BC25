@@ -1,4 +1,7 @@
+package Aulas;
+
 import java.util.ArrayList;
+
 public class EstudoListas {
     public static void main(String[] args) {
         // Listas não aceitam  tipo do módulo primário

@@ -1,4 +1,7 @@
+package Aulas;
+
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class EstudoStrings {
     public static void main(String[] args) {
@@ -53,7 +56,7 @@ public class EstudoStrings {
         String email = "jose.almir@gmail.com";
         String[] valoresEmail = email.split("@"); //["jose.almir","gmail"]
         System.out.println(valoresEmail[0]);
-  //      System.out.println(Arrays.toString(valoresEmail));
+        System.out.println(Arrays.toString(valoresEmail));
 
         String nome2 = "José Souza";
         String[] nomesSeparado = nome2.split(" ");
@@ -62,6 +65,6 @@ public class EstudoStrings {
         String teste = "Amanhã é sexta-feira";
         String[] teste2 = teste.split("");
         //Array.toString é usado para mostrar conteudo da tabela
- //       System.out.println(Arrays.toString(teste2));
+        System.out.println(Arrays.toString(teste2));
     }
 }
