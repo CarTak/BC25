@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="918282d6-31b0-4aab-89d4-a33015f310ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../SQL/Loja.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SQL/projeto1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/Bicicleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/correcao/bibiloteca/Autor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/correcao/bibiloteca/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/correcao/bibiloteca/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/correcao/pou/Bichinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/correcao/pou/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/escola/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/escola/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/escola/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/escola/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/zoo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Exercicios/Heranca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Exercicios/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Exercicios/LivroTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Exercicios/cantor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Exercicios/dancarino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Exercicios/func.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Exercicios/funcTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Exercicios/programador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/poo/Bicicleta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/poo/Cachorro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/poo/Calculadora.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/poo/Pet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/poo/escola/Aluno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/poo/escola/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/poo/escola/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/poo/escola/Professor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/poo/zoo/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/poo/zoo/Galinha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/poo/zoo/Gato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Exercicios/Heranca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Exercicios/Livro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Exercicios/LivroTeste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Exercicios/cantor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Exercicios/dancarino.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Exercicios/func.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Exercicios/funcTeste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Exercicios/programador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/correcao/Correcao1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/correcao/Correcao1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/correcao/Correcao2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/correcao/Correcao2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/correcao/Correcao3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/correcao/Correcao3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/correcao/Correcao4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/correcao/Correcao4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/correcao/Correcao5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../estudojava/estudojava/src/main/java/Aulas/poo/correcao/Correcao5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/correcao/Correcao1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/correcao/Correcao2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/correcao/Correcao3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/correcao/Correcao4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudojava/estudojava/target/classes/Aulas/correcao/Correcao5.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2Gu16CmAVtVsLibtFeQXJjswKlY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="918282d6-31b0-4aab-89d4-a33015f310ba" name="Changes" comment="" />
+      <created>1667223477195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667223477195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
