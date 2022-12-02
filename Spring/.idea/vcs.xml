@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/empresa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/empresa-jpa" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/helpr" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/helpr/helpr/helpr-jfs5" vcs="Git" />
   </component>
