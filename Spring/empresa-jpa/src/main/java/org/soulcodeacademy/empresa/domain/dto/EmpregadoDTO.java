@@ -15,6 +15,9 @@ public class EmpregadoDTO {
     @NotNull(message = "Salario é obrigatório")
     protected  Double salario;
 
+    @NotNull(message = "Endereço é obrigatório")
+    protected  Integer idEndereco;
+
     public String getNome() {
         return nome;
     }
@@ -37,5 +40,13 @@ public class EmpregadoDTO {
 
     public void setSalario(Double salario) {
         this.salario = salario;
+    }
+
+    public Number getIdEndereco() {
+        return idEndereco;
+    }
+
+    public void setIdEndereco(Integer idEndereco) {
+        this.idEndereco = idEndereco;
     }
 }

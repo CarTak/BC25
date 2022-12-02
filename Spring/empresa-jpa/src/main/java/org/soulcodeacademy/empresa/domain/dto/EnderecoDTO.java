@@ -1,6 +1,7 @@
 package org.soulcodeacademy.empresa.domain.dto;
 
 import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.NotNull;
 
 public class EnderecoDTO {
     @NotBlank(message = "Cidade é obrigatório")
@@ -9,6 +10,8 @@ public class EnderecoDTO {
     @NotBlank(message = "UF é obrigatório")
     protected String uf;
 
+    @NotNull(message = "Endereço é obrigatório")
+    protected  Integer idEndereco;
     public String getCidade() {
         return cidade;
     }
@@ -23,5 +26,13 @@ public class EnderecoDTO {
 
     public void setUf(String uf) {
         this.uf = uf;
+    }
+
+    public Integer getIdEndereco() {
+        return idEndereco;
+    }
+
+    public void setIdEndereco(Integer idEndereco) {
+        this.idEndereco = idEndereco;
     }
 }
