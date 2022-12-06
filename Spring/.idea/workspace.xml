@@ -5,29 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95dbd3b8-344a-439b-8e62-6a7713aafdc0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Escola/src/main/java/org/soulcodeacademy/Domain/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Escola/src/main/java/org/soulcodeacademy/Domain/Materia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Escola/src/main/java/org/soulcodeacademy/Domain/Nota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Escola/src/main/java/org/soulcodeacademy/Domain/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Escola/src/main/java/org/soulcodeacademy/Repositories/AlunoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Escola/src/main/java/org/soulcodeacademy/Repositories/MateriaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Escola/src/main/java/org/soulcodeacademy/Repositories/NotaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Escola/src/main/java/org/soulcodeacademy/Repositories/ProfessorRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Escola/src/main/java/org/soulcodeacademy/Services/Escola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/controllers/errors/CustomErrorResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/controllers/errors/ResourceExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/services/errors/ParametrosInsuficientesError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/services/errors/RecursoNaoEncontradoError.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/empresa-jpa/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpr-jfs5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/controllers/CargoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/controllers/CargoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/services/CargoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/services/CargoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/services/ChamadoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/services/ChamadoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/services/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/services/ClienteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/services/FuncionarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/helpr/src/main/java/org/soulcodeacademy/helpr/services/FuncionarioService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpr/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/helpr/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/EmpresaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/controllers/DependenteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/controllers/EmpregadoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/controllers/EnderecoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/controllers/ProjetoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/domain/Dependente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/domain/Empregado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/domain/Endereco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/domain/Projeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/domain/dto/DependenteDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/domain/dto/EmpregadoDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/domain/dto/EnderecoDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/domain/dto/ProjetoDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/repositories/DependenteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/repositories/EmpregadoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/repositories/EnderecoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/repositories/ProjetoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/services/DependenteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/services/EmpregadoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/services/EnderecoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/services/ProjetoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/java/org/soulcodeacademy/empresa/services/TesteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empresa-jpa/src/test/java/org/soulcodeacademy/empresa/EmpresaApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
